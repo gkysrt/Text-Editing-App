@@ -1,15 +1,10 @@
 # Text Editing App.
 > CENG431
 
-## Requirements
+> Building Software Systems
 
-- JDK 10+
-- Eclipse or terminal.
+> Project's purpose is to demonstrate Composite Design Pattern and SOLID principles
 
-## Running from command line with ANSI colors
-This project supports ANSI colors on terminal. Just clone project and build on Eclipse, then with your terminal
-go to `bin/` folder and execute
-```sh
-java -cp . presentation.App
-```
-You will see the colors!
+---
+
+
